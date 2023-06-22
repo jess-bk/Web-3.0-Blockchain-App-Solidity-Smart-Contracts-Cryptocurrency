@@ -10,5 +10,3 @@ module.exports = {
     },
   },
 };
-console.log(process.env.SEPOLIA_URL);
-console.log(process.env.SEPOLIA_ACCOUNTS);
